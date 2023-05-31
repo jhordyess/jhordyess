@@ -3,13 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Simple React front-end developer from
-  <span style="color: #D52B1E">Bo</span><span style="color: #FFDE00">li</span><span style="color: #1EB53A">via</span>
+  Simple React front-end developer from 🇧🇴 Bolivia
 </h3>
 
 <br/>
 
-<ul style="list-style: circle">
+<ul>
   <li>🌱 I’m currently learning <b>React.js Next.js</b></li>
   <li>👨‍💻 All of my projects are available at <a href="https://jhordyess.com/projects">jhordyess.com/projects</a></li>
   <li>📝 I regularly write articles on <a href="https://blog.jhordyess.com">blog.jhordyess.com</a></li>
@@ -47,11 +46,6 @@
       src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"
       alt="CSS3"
   /></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="Webpack"
-  /></a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
@@ -70,6 +64,16 @@
     ><img
       src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"
   /></a>
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+      alt="npm"
+  /></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="Webpack"
+  /></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"
@@ -79,11 +83,6 @@
     ><img
       src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
-  /></a>
-  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-      alt="npm"
   /></a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"
     ><img
@@ -98,8 +97,34 @@
 
 <h3 align="left">Extra Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"
-    ><img src="https://img.shields.io/badge/-🤔Java-007396?style=for-the-badge"
+  <a href="https://openjdk.org/" target="_blank" rel="noreferrer"
+    ><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk"
+  /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  /></a>
+  <a
+    href="https://docs.microsoft.com/en-us/dotnet/csharp/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"
+  /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+  /></a>
+  <a
+    href="https://www.microsoft.com/en-us/sql-server/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+  /></a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
   /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
     ><img
@@ -113,10 +138,6 @@
     <img
       src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
   /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
-  /></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"
@@ -125,31 +146,9 @@
     ><img
       src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"
   /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"
-  /></a>
-  <a
-    href="https://docs.microsoft.com/en-us/dotnet/csharp/"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"
-  /></a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server/"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-  /></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
   /></a>
 </p>
 
