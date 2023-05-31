@@ -8,12 +8,42 @@
 
 <br/>
 
-<ul>
-  <li>🌱 I’m currently learning <b>React.js Next.js</b></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://jhordyess.com/projects">jhordyess.com/projects</a></li>
-  <li>📝 I regularly write articles on <a href="https://blog.jhordyess.com">blog.jhordyess.com</a></li>
-  <li>📫 How to reach me  <a href="mailto:dev@jhordyess.com">dev@jhordyess.com</a></li>
-</ul>
+- 🌱 I’m currently learning **React.js Next.js**
+
+- 👨‍💻 All of my projects are available at [jhordyess.com/projects](https://www.jhordyess.com/projects)
+
+- 📝 I regularly write articles on [blog.jhordyess.com](https://blog.jhordyess.com)
+
+- 📫 How to reach me **<dev@jhordyess.com>**
+
+<h3 align="left">Social:</h3>
+<p align="left">
+  <a href="https://twitter.com/jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Jhordyess"
+  /></a>
+  <a href="https://linkedin.com/in/jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Jhordyess"
+  /></a>
+  <a href="https://www.jhordyess.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Jhordyess.com-4cc195?style=for-the-badge&Color=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MC4wOCA0Ny42OSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjxnIGlkPSJDYXBhXzIiIGRhdGEtbmFtZT0iQ2FwYSAyIj48ZyBpZD0iTG9nb3RpcG9zIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNC4zNiw0LjUzaDkuNzlMMjUsMEgxMy4yN0E1Ljc2LDUuNzYsMCwwLDAsNy42NCw0LjUzYzAsLjA3LDAsLjE1LDAsLjIzTDAsNDcuNjlINC4zMUwxMS41NCw2LjgzQTIuODksMi44OSwwLDAsMSwxNC4zNiw0LjUzWiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIxNi4xNyA5LjA2IDE0LjAyIDkuMDYgNy4xOCA0Ny42OSA5LjA1IDQ3LjY5IDkuMzMgNDcuNjkgMTYuNTEgNDcuNjkgMTcuMzEgNDMuMTUgMTAuMTMgNDMuMTUgMTYuMTcgOS4wNiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ1Ljc3LDAsMzguNTMsNDAuODVhMi44NywyLjg3LDAsMCwxLTIuODEsMi4zSDI1LjkzbC0uOCw0LjU0SDM2LjgxYTUuNzUsNS43NSwwLDAsMCw1LjYyLTQuNTQsMS43NCwxLjc0LDAsMCwwLDAtLjIyTDUwLjA4LDBaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjMzLjkxIDM4LjYyIDM2LjA2IDM4LjYyIDQyLjkgMCA0MS4wMyAwIDQwLjc0IDAgMzMuNTYgMCAzMi43NyA0LjUzIDM5Ljk0IDQuNTMgMzMuOTEgMzguNjIiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMzAuMTUgMzUuNTcgMjIuOTcgMzUuNTcgMTUuNzkgMzUuNTcgMTUuNCAzNy43IDIyLjU5IDM3LjcgMjkuNzcgMzcuNyAzMC4xNSAzNS41NyIvPjwvZz48L2c+PC9zdmc+"
+      alt="jhordyess"
+  /></a>
+  <a href="https://hashnode.com/@jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
+      alt="Jhordyess"
+  /></a>
+  <a href="https://www.youtube.com/@jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="Jhordyess"
+  /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
