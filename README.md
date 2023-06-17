@@ -6,11 +6,13 @@
   Simple React Frontend Developer from 🇧🇴 Bolivia
 </h3>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Jest, and GraphQL**
+- 📚 Currently learning **Next.js, TypeScript, Jest, and GraphQL**
 
-- 👨‍💻 All of my projects are available at [jhordyess.com/projects](https://www.jhordyess.com/projects)
+- 🚀 Projects available at [jhordyess.com/projects](https://www.jhordyess.com/projects)
 
-- 📫 Where to spam me **<dev@jhordyess.com>**
+- 📬 Where to spam me **<dev@jhordyess.com>**
+
+- 📝 Check out my XP at [my resume](https://www.jhordyess.com/api/resume)
 
 <h3 align="left">Social:</h3>
 <p align="left">
@@ -33,6 +35,11 @@
     ><img
       src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
       alt="Jhordyess YouTube"
+  /></a>
+  <a href="https://www.facebook.com/@jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Jhordyess Facebook"
   /></a>
 </p>
 
@@ -87,6 +94,11 @@
     ><img
       src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"
       alt="React"
+  /></a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"
+      alt="Axios"
   /></a>
   <br />
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"
