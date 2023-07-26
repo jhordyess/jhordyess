@@ -1,12 +1,12 @@
 <h1 align="center">
-  <i>Kamisaki</i> 👋, It's <span title="jhordyess">Jhordy Gavinchu</span>
+  <i>Hi</i> 👋, It's <span title="jhordyess">Jhordy Gavinchu</span>
 </h1>
 
 <h3 align="center">
   Simple React Frontend Developer from 🇧🇴 Bolivia
 </h3>
 
-- 📚 Currently learning **Next.js, TypeScript, Jest, and GraphQL**
+- 📚 Currently learning **Next.js, Jest, and GraphQL**
 
 - 🚀 Projects available at [jhordyess.com/projects](https://www.jhordyess.com/projects)
 
@@ -14,8 +14,13 @@
 
 - 📝 Check out my XP at [my resume](https://www.jhordyess.com/api/resume)
 
-<h3 align="left">Social:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
+  <a href="https://www.jhordyess.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Jhordyess.com-4cc195?style=for-the-badge&Color=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MC4wOCA0Ny42OSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjxnIGlkPSJDYXBhXzIiIGRhdGEtbmFtZT0iQ2FwYSAyIj48ZyBpZD0iTG9nb3RpcG9zIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNC4zNiw0LjUzaDkuNzlMMjUsMEgxMy4yN0E1Ljc2LDUuNzYsMCwwLDAsNy42NCw0LjUzYzAsLjA3LDAsLjE1LDAsLjIzTDAsNDcuNjlINC4zMUwxMS41NCw2LjgzQTIuODksMi44OSwwLDAsMSwxNC4zNiw0LjUzWiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIxNi4xNyA5LjA2IDE0LjAyIDkuMDYgNy4xOCA0Ny42OSA5LjA1IDQ3LjY5IDkuMzMgNDcuNjkgMTYuNTEgNDcuNjkgMTcuMzEgNDMuMTUgMTAuMTMgNDMuMTUgMTYuMTcgOS4wNiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ1Ljc3LDAsMzguNTMsNDAuODVhMi44NywyLjg3LDAsMCwxLTIuODEsMi4zSDI1LjkzbC0uOCw0LjU0SDM2LjgxYTUuNzUsNS43NSwwLDAsMCw1LjYyLTQuNTQsMS43NCwxLjc0LDAsMCwwLDAtLjIyTDUwLjA4LDBaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjMzLjkxIDM4LjYyIDM2LjA2IDM4LjYyIDQyLjkgMCA0MS4wMyAwIDQwLjc0IDAgMzMuNTYgMCAzMi43NyA0LjUzIDM5Ljk0IDQuNTMgMzMuOTEgMzguNjIiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMzAuMTUgMzUuNTcgMjIuOTcgMzUuNTcgMTUuNzkgMzUuNTcgMTUuNCAzNy43IDIyLjU5IDM3LjcgMjkuNzcgMzcuNyAzMC4xNSAzNS41NyIvPjwvZz48L2c+PC9zdmc+"
+      alt="jhordyess"
+  /></a>
   <a href="https://twitter.com/jhordyess" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -26,21 +31,6 @@
       src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Jhordyess LinkedIn"
   /></a>
-  <a href="https://hashnode.com/@jhordyess" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
-      alt="Jhordyess Hashnode"
-  /></a>
-  <a href="https://www.youtube.com/@jhordyess" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="Jhordyess YouTube"
-  /></a>
-  <a href="https://www.facebook.com/@jhordyess" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Jhordyess Facebook"
-  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,7 +40,7 @@
     target="_blank"
     rel="noreferrer"
     ><img
-      src="https://img.shields.io/badge/-Hyper%20Text%20Markup%20Language%205-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
       alt="HTML5"
   /></a>
   <a
@@ -58,7 +48,7 @@
     target="_blank"
     rel="noreferrer"
     ><img
-      src="https://img.shields.io/badge/-Cascading%20Style%20Sheets%203-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"
+      src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"
       alt="CSS3"
   /></a>
   <a
@@ -68,6 +58,14 @@
     ><img
       src="https://img.shields.io/badge/-JavaScript%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
       alt="JavaScript"
+  /></a>
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
   /></a>
   <br />
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"
@@ -120,6 +118,16 @@
     ><img
       src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
       alt="Yarn"
+  /></a>
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"
+      alt="Prettier"
+  /></a>
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"
+      alt="ESLint"
   /></a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"
     ><img
