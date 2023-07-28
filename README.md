@@ -6,7 +6,7 @@
   Simple React Frontend Developer from 🇧🇴 Bolivia
 </h3>
 
-- 📚 Currently learning **Next.js, Jest, and GraphQL**
+- 📚 Currently learning **D3.js, Node.js, Jest, GraphQL, Next.js**
 
 - 🚀 Projects available at [jhordyess.com/projects](https://www.jhordyess.com/projects)
 
