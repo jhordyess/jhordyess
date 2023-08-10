@@ -1,7 +1,3 @@
-<p style="float:right">
-  <a href="./README.md">EN</a> | <a href="#">ES</a>
-</p>
-
 <h1 align="center">
   <i>Hola</i> 👋, Soy <span title="jhordyess">Jhordy Gavinchu</span>
 </h1>
@@ -9,6 +5,10 @@
 <h3 align="center">
   Desarrolador React de Bolivia 🇧🇴
 </h3>
+
+<p align="right">
+  <a href="README.md">EN</a> | <a href="#">ES</a>
+</p>
 
 - 📚 Voy aprendiendo **Jest, GraphQL, Next.js, Node.js, Express**
 
@@ -111,8 +111,7 @@
   /></a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"
     ><img
-      src="https://img.shields.io/badge/-D3.js
--F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"
+      src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3%2Ejs&logoColor=white"
       alt="D3.js"
   /></a>
   <br />
