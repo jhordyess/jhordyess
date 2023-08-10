@@ -1,26 +1,26 @@
 <p style="float:right">
-  <a href="#">EN</a> | <a href="./LÉEME.md">ES</a>
+  <a href="./README.md">EN</a> | <a href="#">ES</a>
 </p>
 
 <h1 align="center">
-  <i>Hi</i> 👋, It's <span title="jhordyess">Jhordy Gavinchu</span>
+  <i>Hola</i> 👋, Soy <span title="jhordyess">Jhordy Gavinchu</span>
 </h1>
 
 <h3 align="center">
-  Simple React Frontend Developer from Bolivia 🇧🇴
+  Desarrolador React de Bolivia 🇧🇴
 </h3>
 
-- 📚 Currently learning **Jest, GraphQL, Next.js, Node.js, Express**
+- 📚 Voy aprendiendo **Jest, GraphQL, Next.js, Node.js, Express**
 
-- 🚀 Check out my projects gallery at [jhordyess.com/projects](https://www.jhordyess.com/projects)
+- 🚀 Mi galería de proyectos está en [jhordyess.com/projects](https://www.jhordyess.com/projects)
 
-- 📬 Where to spam me: **<dev@jhordyess.com>**
+- 📬 Mande spam aquí: **<dev@jhordyess.com>**
 
-- 📝 Wanna know my XP? Take a look at [my resume](https://www.jhordyess.com/api/resume)
+- 📝 Visita mi experiencia en [mi curriculum](https://www.jhordyess.com/api/resume?lang=es)
 
-- 🎩 Likely committing from Monday to Friday, except during [Bolivian holidays](https://commenthol.github.io/date-holidays/#en/2023/BO)
+- 🎩 Commits solo de lunes a viernes, salvo [feriados bolivianos](https://commenthol.github.io/date-holidays/#es/2023/BO)
 
-<h3 align="left">Links:</h3>
+<h3 align="left">Enlaces:</h3>
 <p align="left">
   <a href="https://www.jhordyess.com/" target="_blank">
     <img
@@ -44,7 +44,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/HTML"
@@ -179,7 +179,7 @@
   /></a>
 </p>
 
-<h3 align="left">Extra Languages and Tools:</h3>
+<h3 align="left">Más lenguajes y herramientas:</h3>
 <p align="left">
   <a href="https://openjdk.org/" target="_blank" rel="noreferrer"
     ><img
