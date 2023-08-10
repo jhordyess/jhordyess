@@ -3,16 +3,18 @@
 </h1>
 
 <h3 align="center">
-  Simple React Frontend Developer from 🇧🇴 Bolivia
+  Simple React Frontend Developer from Bolivia 🇧🇴
 </h3>
 
-- 📚 Currently learning **D3.js, Node.js, Jest, GraphQL, Next.js**
+- 📚 Currently learning **Jest, GraphQL, Next.js, Node.js, Express**
 
-- 🚀 Projects available at [jhordyess.com/projects](https://www.jhordyess.com/projects)
+- 🚀 Check out my projects gallery at [jhordyess.com/projects](https://www.jhordyess.com/projects)
 
-- 📬 Where to spam me **<dev@jhordyess.com>**
+- 📬 Where to spam me: **<dev@jhordyess.com>**
 
-- 📝 Check out my XP at [my resume](https://www.jhordyess.com/api/resume)
+- 📝 Wanna know my XP? Take a look at [my resume](https://www.jhordyess.com/api/resume)
+
+- 🎩 Likely committing from Monday to Friday, except during [Bolivian holidays](https://commenthol.github.io/date-holidays/#en/2023/BO)
 
 <h3 align="left">Links:</h3>
 <p align="left">
@@ -88,11 +90,6 @@
       src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"
       alt="Redux"
   /></a>
-  <a href="https://xstate.js.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-XState-2C3E50?style=for-the-badge&logo=xstate&logoColor=white"
-      alt="XState"
-  /></a>
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"
@@ -102,6 +99,17 @@
     ><img
       src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"
       alt="Axios"
+  /></a>
+  <a href="https://xstate.js.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-XState-2C3E50?style=for-the-badge&logo=xstate&logoColor=white"
+      alt="XState"
+  /></a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-D3.js
+-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"
+      alt="D3.js"
   /></a>
   <br />
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"
