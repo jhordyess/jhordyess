@@ -87,22 +87,14 @@
   /></a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jhordyess&locale=en&layout=donut&size_weight=0.5&count_weight=0.5"
-    alt="jhordyess"
-  />
-</p>
+![Jhordyess Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhordyess&locale=en&layout=donut&size_weight=0.5&count_weight=0.5)
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=jhordyess&show_icons=true&locale=en&rank_icon=github"
-    alt="jhordyess"
-  />
-</p>
+![Jhordyess Stats](https://github-readme-stats.vercel.app/api?username=jhordyess&show_icons=true&locale=en&rank_icon=github)
+
+---
+
+###
 
 <a href="https://open.spotify.com/playlist/75vOFLl7scLWTls9gd00RE?si=e6018f7a00b94569" target="_blank" rel="noreferrer">
-  <img src="https://topbeats-cduk5fpz4q-uc.a.run.app/" alt="Top Jhordyess">
+  <img src="https://beats.jhordyess.com/" alt="Jhordyess Beats"/>
 </a>
