@@ -33,11 +33,6 @@
       src="https://img.shields.io/badge/-Jhordyess.com-4cc195?style=for-the-badge&Color=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MC4wOCA0Ny42OSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjxnIGlkPSJDYXBhXzIiIGRhdGEtbmFtZT0iQ2FwYSAyIj48ZyBpZD0iTG9nb3RpcG9zIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNC4zNiw0LjUzaDkuNzlMMjUsMEgxMy4yN0E1Ljc2LDUuNzYsMCwwLDAsNy42NCw0LjUzYzAsLjA3LDAsLjE1LDAsLjIzTDAsNDcuNjlINC4zMUwxMS41NCw2LjgzQTIuODksMi44OSwwLDAsMSwxNC4zNiw0LjUzWiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIxNi4xNyA5LjA2IDE0LjAyIDkuMDYgNy4xOCA0Ny42OSA5LjA1IDQ3LjY5IDkuMzMgNDcuNjkgMTYuNTEgNDcuNjkgMTcuMzEgNDMuMTUgMTAuMTMgNDMuMTUgMTYuMTcgOS4wNiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ1Ljc3LDAsMzguNTMsNDAuODVhMi44NywyLjg3LDAsMCwxLTIuODEsMi4zSDI1LjkzbC0uOCw0LjU0SDM2LjgxYTUuNzUsNS43NSwwLDAsMCw1LjYyLTQuNTQsMS43NCwxLjc0LDAsMCwwLDAtLjIyTDUwLjA4LDBaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjMzLjkxIDM4LjYyIDM2LjA2IDM4LjYyIDQyLjkgMCA0MS4wMyAwIDQwLjc0IDAgMzMuNTYgMCAzMi43NyA0LjUzIDM5Ljk0IDQuNTMgMzMuOTEgMzguNjIiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMzAuMTUgMzUuNTcgMjIuOTcgMzUuNTcgMTUuNzkgMzUuNTcgMTUuNCAzNy43IDIyLjU5IDM3LjcgMjkuNzcgMzcuNyAzMC4xNSAzNS41NyIvPjwvZz48L2c+PC9zdmc+"
       alt="Jhordyess Website"
   /></a>
-  <a href="https://links.jhordyess.com" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-da%20links-152023?style=for-the-badge"
-      alt="Jhordyess LinkedIn"
-  /></a>
 </p>
 
 <h3 align="left">Stack principal 💡</h3>
@@ -107,3 +102,7 @@
     alt="jhordyess"
   />
 </p>
+
+<a href="https://open.spotify.com/playlist/75vOFLl7scLWTls9gd00RE?si=e6018f7a00b94569" target="_blank" rel="noreferrer">
+  <img src="https://topbeats-cduk5fpz4q-uc.a.run.app/" alt="Top Jhordyess">
+</a>
