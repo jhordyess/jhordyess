@@ -1,22 +1,22 @@
 <h1 align="center">
-  🤛 <i>Hola</i>, Soy <span title="jhordyess">Jhordy Gavinchu</span>
+  🤛 <i>Olá</i>, Sou <span title="jhordyess">Jhordy Gavinchu</span>
 </h1>
 
 <h3 align="center">
-  Software Engineer enfocado en Desarrollo Web
+  Software Engineer focado em Desenvolvimento  Web
 </h3>
 
 <p align="right">
-  <a href="README.md">EN</a> | <a href="#">ES</a> | <a href="LEIA-ME.md">PT</a>
+  <a href="README.md">EN</a> | <a href="LÉEME.md">ES</a> | <a href="#">PT</a>
 </p>
 
-- 📚 Actualmente profundizando: **React, Next.js, y Spring**
+- 📚 Atualmente aprofundando: **React, Next.js, e Spring**
 
-- 🚀 Mis principales projectos estan en: [jhordyess.com/portfolio](https://www.jhordyess.com/portfolio)
+- 🚀 Meus principais projetos estão em: [jhordyess.com/portfolio](https://www.jhordyess.com/portfolio)
 
-- 📬 Mande spam aquí: **<dev@jhordyess.com>**
+- 📬 Spam aquí: **<dev@jhordyess.com>**
 
-<h3 align="left">Enlaces 🔗</h3>
+<h3 align="left">Links 🔗</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jhordyess" target="_blank"
     ><img

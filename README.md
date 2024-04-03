@@ -7,7 +7,7 @@
 </h3>
 
 <p align="right">
-  <a href="#">EN</a> | <a href="LÉEME.md">ES</a>
+  <a href="#">EN</a> | <a href="LÉEME.md">ES</a> | <a href="LEIA-ME.md">PT</a>
 </p>
 
 - 📚 Currently delving into **React, Next.js, and Spring**
