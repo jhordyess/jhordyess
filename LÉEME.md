@@ -10,7 +10,7 @@
   <a href="README.md">EN</a> | <a href="#">ES</a>
 </p>
 
-- 📚 Actualmente profundizando: **Node.js, Next.js, y Spring**
+- 📚 Actualmente profundizando: **React, Next.js, y Spring**
 
 - 🚀 Mis principales projectos estan en: [jhordyess.com/portfolio](https://www.jhordyess.com/portfolio)
 
@@ -50,15 +50,20 @@
       src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"
       alt="React"
   /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
-      alt="Next.js"
-  /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
       alt="Node.js"
+  /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"
+      alt="Express"
+  /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+      alt="Next.js"
   /></a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"
     ><img
