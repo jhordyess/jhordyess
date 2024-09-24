@@ -10,7 +10,7 @@
   <a href="#">EN</a> | <a href="LÉEME.md">ES</a> | <a href="LEIA-ME.md">PT</a>
 </p>
 
-- 📚 Currently delving into **React, Next.js, and Spring**
+- 📚 Currently delving into **GraphQL, Next.js and Blockchain**
 
 - 🚀 Check out my main projects at [jhordyess.com/portfolio](https://www.jhordyess.com/portfolio)
 
