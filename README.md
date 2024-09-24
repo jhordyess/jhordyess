@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer focused on Web Development
+  Software Engineer focused on Web Development 2.0 and 3.0
 </h3>
 
 <p align="right">
