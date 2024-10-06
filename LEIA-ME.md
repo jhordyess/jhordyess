@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer focado em Desenvolvimento  Web
+  Software Engineer focado em Desenvolvimento Web2
 </h3>
 
 <p align="right">
   <a href="README.md">EN</a> | <a href="LÉEME.md">ES</a> | <a href="#">PT</a>
 </p>
 
-- 📚 Atualmente aprofundando: **React, Next.js, e Spring**
+- 📚 Atualmente aprofundando: **GraphQL, Next.js, e Blockchain**
 
 - 🚀 Meus principais projetos estão em: [jhordyess.com/portfolio](https://www.jhordyess.com/portfolio)
 
@@ -65,20 +65,15 @@
       src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
       alt="Next.js"
   /></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-Java-437291?style=for-the-badge&logo=openjdk&logoColor=white"
-      alt="Java"
-  /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-      alt="Spring"
-  /></a>
   <a href="https://postgresql.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="PostgreSQL"
+  /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="MongoDB"
   /></a>
   <a href="https://linux.org/" target="_blank" rel="noreferrer"
     ><img
