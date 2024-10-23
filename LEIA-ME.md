@@ -98,3 +98,5 @@
 <a href="https://open.spotify.com/playlist/75vOFLl7scLWTls9gd00RE?si=e6018f7a00b94569" target="_blank" rel="noreferrer">
   <img src="https://beats.jhordyess.com/" alt="Jhordyess Beats"/>
 </a>
+
+![Profile views: 🤷‍♂️](https://img.shields.io/badge/Profile%20views-🤷‍♂️-CD853F?style=for-the-badge)
