@@ -10,9 +10,13 @@
   <a href="README.md">EN</a> | <a href="LÉEME.md">ES</a> | <a href="#">PT</a>
 </p>
 
-- 📚 Atualmente aprofundando: **GraphQL, Next.js, e Blockchain**
+- 📚 Atualmente aprofundando: **Fastify, AWS, Blockchain e IA**
+
+- 💬 Vamos falar sobre **TypeScript, React, Node.js, Next.js e Vibe coding**
 
 - 🚀 Meus principais projetos estão em: [jhordyess.com/portfolio](https://www.jhordyess.com/portfolio)
+
+- 📝 Artigos ocasionais em: [blog.jhordyess.com](https://blog.jhordyess.com)
 
 - 📬 Spam aquí: **<dev@jhordyess.com>**
 
@@ -20,7 +24,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/jhordyess" target="_blank"
     ><img
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge"
       alt="Jhordyess LinkedIn"
   /></a>
   <a href="https://twitter.com/jhordyess" target="_blank"
@@ -32,6 +36,16 @@
     <img
       src="https://img.shields.io/badge/-Jhordyess.com-4cc195?style=for-the-badge&Color=black&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MC4wOCA0Ny42OSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjxnIGlkPSJDYXBhXzIiIGRhdGEtbmFtZT0iQ2FwYSAyIj48ZyBpZD0iTG9nb3RpcG9zIj48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNC4zNiw0LjUzaDkuNzlMMjUsMEgxMy4yN0E1Ljc2LDUuNzYsMCwwLDAsNy42NCw0LjUzYzAsLjA3LDAsLjE1LDAsLjIzTDAsNDcuNjlINC4zMUwxMS41NCw2LjgzQTIuODksMi44OSwwLDAsMSwxNC4zNiw0LjUzWiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIxNi4xNyA5LjA2IDE0LjAyIDkuMDYgNy4xOCA0Ny42OSA5LjA1IDQ3LjY5IDkuMzMgNDcuNjkgMTYuNTEgNDcuNjkgMTcuMzEgNDMuMTUgMTAuMTMgNDMuMTUgMTYuMTcgOS4wNiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQ1Ljc3LDAsMzguNTMsNDAuODVhMi44NywyLjg3LDAsMCwxLTIuODEsMi4zSDI1LjkzbC0uOCw0LjU0SDM2LjgxYTUuNzUsNS43NSwwLDAsMCw1LjYyLTQuNTQsMS43NCwxLjc0LDAsMCwwLDAtLjIyTDUwLjA4LDBaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjMzLjkxIDM4LjYyIDM2LjA2IDM4LjYyIDQyLjkgMCA0MS4wMyAwIDQwLjc0IDAgMzMuNTYgMCAzMi43NyA0LjUzIDM5Ljk0IDQuNTMgMzMuOTEgMzguNjIiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMzAuMTUgMzUuNTcgMjIuOTcgMzUuNTcgMTUuNzkgMzUuNTcgMTUuNCAzNy43IDIyLjU5IDM3LjcgMjkuNzcgMzcuNyAzMC4xNSAzNS41NyIvPjwvZz48L2c+PC9zdmc+"
       alt="Jhordyess Website"
+  /></a>
+  <a href="https://www.hackerrank.com/jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
+      alt="Jhordyess HackerRank"
+  /></a>
+  <a href="https://stackoverflow.com/users/28701847/jhordyess" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"
+      alt="Jhordyess Stack Overflow"
   /></a>
 </p>
 
@@ -82,7 +96,7 @@
   /></a>
   <a href="https://vscode.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+      src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge"
       alt="VS Code"
   /></a>
 </p>
