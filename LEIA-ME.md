@@ -20,8 +20,6 @@
 
 - 📝 Artigos ocasionais em: [blog.jhordyess.com](https://blog.jhordyess.com)
 
-- 📬 Spam aquí: **<dev@jhordyess.com>**
-
 <h1 align="left">Stack principal 💡</h1>
 
 <p align="left">
@@ -77,9 +75,7 @@
 
 <h1 align="left">GitHub Stats 📊</h1>
 
-![Jhordyess Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jhordyess&locale=en&layout=donut&size_weight=0.5&count_weight=0.5)
-
-![Jhordyess Stats](https://github-readme-stats.vercel.app/api?username=jhordyess&show_icons=true&locale=en&rank_icon=github)
+1️⃣2️⃣...❓
 
 <h1 align="left">Links 🔗</h1>
 
