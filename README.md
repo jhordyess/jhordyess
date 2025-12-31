@@ -20,8 +20,6 @@
 
 - 📝 Occasionally articles on [blog.jhordyess.com](https://blog.jhordyess.com)
 
-- 📬 Where to spam me: <dev@jhordyess.com>
-
 <h1 align="left">Focus Stack 💡</h1>
 
 <p align="left">
@@ -77,7 +75,7 @@
 
 <h1 align="left">GitHub Stats 📊</h1>
 
-1️⃣2️⃣...❓
+[😔😥](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="left">Links 🔗</h1>
 
